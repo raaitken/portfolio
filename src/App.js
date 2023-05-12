@@ -1,12 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
+import PortfolioContainer from './containers/PortfolioContainer';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-          Under Construction
-      </header>
+      <PortfolioContainer />
     </div>
   );
 }
